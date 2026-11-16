@@ -1,4 +1,4 @@
-# Vini Digital Lab
+# Vini Pessoal Site
 
 Uma apresentação digital de Vinicius Scherer, reunindo criação visual, tecnologia, estudos e experiência profissional.
 
